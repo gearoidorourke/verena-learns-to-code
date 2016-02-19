@@ -10,6 +10,7 @@ Some simple steps to build & deploy a website with Middleman. Ready? Let's go.
 
 
 ### Useful git commands
+
 #### git status
 == WTF is happening
 
@@ -23,7 +24,22 @@ Some simple steps to build & deploy a website with Middleman. Ready? Let's go.
 == Commits your changes
 
 #### git pull origin [branch name]
-== Get the latest changes from Github 
+== Get the latest changes from Github
 
 #### git push origin [brand name]
 == Sends the latest changes to Github
+
+## Middleman setup
+(Assuming we're still in ../code/verena-learns-to-code/)
+- [ ] Read about Middleman https://middlemanapp.com/
+- [ ] $ gem install middleman
+- [ ] $ cd .. (takes up one level to /code)
+- [ ] $ middleman init verena-learns-to-code (tells Middleman to do some cool shit with our repo)
+- [ ] $ cd verena-learns-to-code
+- [ ] $ middleman (starts the server)
+- [ ] Open your browser and go to http://localhost:4567/
+- [ ] Open Sublime text and open our repo to see your site structure
+
+# !! ALERT !! WE NOW HAVE A WEBSITE !!
+
+Time to hack...
