@@ -2,7 +2,7 @@
 
 Some simple steps to build & deploy a website with Middleman. Ready? Let's go.
 
-*Note:* "$" is a convention that indicates a terminal command. But you don't need the "$"  to run the command. For example to find our wtf is happening with git, type "git status" *not* "$ git status".
+*Note:* "$" is a convention that indicates a terminal command. But you don't need the "$"  to run the command. For example to find out wtf is happening with git, type "git status" *not* "$ git status".
 
 ## Git & repo setup
 - [ ] Set up git: https://help.github.com/articles/set-up-git/
