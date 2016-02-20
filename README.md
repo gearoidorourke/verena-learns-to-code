@@ -7,14 +7,19 @@ Some simple steps to build & deploy a website with Middleman. Ready? Let's go.
 ## Git & repo setup
 - [ ] Set up git: https://help.github.com/articles/set-up-git/
 - [ ] Open your terminal of choice
+- [ ] create folder “code”
+- [ ] in terminal: $ cd /Users/Verena/Documents/code
 - [ ] $ git clone git@github.com:orourkedesign/verena-learns-to-code.git
-- [ ] $ cd code/verena-learns-to-code
+- [ ] $ cd /Users/Verena/Documents/code/verena-learns-to-code
 
 
 ### Useful git commands
 
 #### git status
 == WTF is happening
+
+#### pwd
+== Where am I
 
 #### git checkout [branch name]
 == Moves you to the branch you specify
@@ -30,6 +35,9 @@ Some simple steps to build & deploy a website with Middleman. Ready? Let's go.
 
 #### git push origin [brand name]
 == Sends the latest changes to Github
+
+#### ls
+== lists everything in the folder
 
 ## Middleman setup
 (Assuming we're still in ../code/verena-learns-to-code/)
