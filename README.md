@@ -36,6 +36,9 @@ Some simple steps to build & deploy a website with Middleman. Ready? Let's go.
 #### git push origin [brand name]
 == Sends the latest changes to Github
 
+#### git reflog
+== Show history of your commits
+
 #### ls
 == lists everything in the folder
 
